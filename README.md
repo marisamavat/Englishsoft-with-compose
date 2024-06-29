@@ -1,6 +1,9 @@
 EnglishSoft
 EnglishSoft is an Android application designed to help users improve their English language skills. The app includes a variety of resources such as English songs, IELTS materials, TOEFL materials, cartoons, and grammar lessons.
 
+<img src="englishsoft.gif" alt="Description of the image" width="200" height="400"/>
+
+
  Features
 - **Navigation Component**: Utilizes NavHost and composable functions to manage navigation between screens.
 - **LazyColumn and LazyRow**: Displays content in vertical and horizontal lists.
